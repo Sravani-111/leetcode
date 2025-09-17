@@ -17,4 +17,12 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Sravani-111/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Sravani-111/leetcode/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Sravani-111/leetcode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
